@@ -23,7 +23,9 @@ Desarrollar una aplicación web interactiva que permita aplicar los fundamentos 
 
 ## Estructura que manejé en el proyeto repositorio
 |---- app.py
+
 |---- requirements.txt
+
 |---- README.md
 
 ## Explicación de la estructura
@@ -98,3 +100,4 @@ Módulo 1 – Python Fundamentals
 
 
 Año: 2026
+
