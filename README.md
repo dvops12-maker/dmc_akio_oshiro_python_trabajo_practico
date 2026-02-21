@@ -92,7 +92,8 @@ streamlit run app.py
 ## Enlaces
 
 Repositorio GitHub: https://github.com/dvops12-maker/dmc_akio_oshiro_python_trabajo_practico 
-Aplicación en Streamlit Cloud: 
+
+Aplicación en Streamlit Cloud: https://dmcakiooshiropythontrabajopractico-twloab39qne7mjjd33pjw4.streamlit.app/
 
 Autor: Akio Alexis Oshiro Nakasone
 Especialización en Python for Analytics
@@ -100,5 +101,6 @@ Módulo 1 – Python Fundamentals
 
 
 Año: 2026
+
 
 
