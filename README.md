@@ -76,7 +76,7 @@ Implementación de la clase `Actividad` con:
 
 1. Clonar el repositorio:
    ```bash
-   git clone (URL_DEL_REPOSITORIO)
+   git clone https://github.com/dvops12-maker/dmc_akio_oshiro_python_trabajo_practico 
 
 2. Ingresar a la carpeta del proyecto:
 cd python-tp-mod1 (este es el nombre de mi carpeta)
@@ -100,4 +100,5 @@ Módulo 1 – Python Fundamentals
 
 
 Año: 2026
+
 
