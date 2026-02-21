@@ -22,9 +22,9 @@ Desarrollar una aplicación web interactiva que permita aplicar los fundamentos 
 ---
 
 ## Estructura que manejé en el proyeto repositorio
-├── app.py
-├── requirements.txt
-└── README.md
+|---- app.py
+|---- requirements.txt
+|---- README.md
 
 ## Explicación de la estructura
 - **app.py** → Archivo principal de la aplicación.
@@ -95,5 +95,6 @@ Aplicación en Streamlit Cloud:
 Autor: Akio Alexis Oshiro Nakasone
 Especialización en Python for Analytics
 Módulo 1 – Python Fundamentals
+
 
 Año: 2026
